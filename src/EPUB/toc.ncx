@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="20261013182652" name="dtb:uid"/>
+    <meta content="0" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>छाँगासँग कुरा</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="chapter_0">
+      <navLabel>
+        <text>आवरण पृष्ठ</text>
+      </navLabel>
+      <content src="text/coverpage.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_1">
+      <navLabel>
+        <text>शीर्षक पृष्ठ</text>
+      </navLabel>
+      <content src="text/titlepage.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_2">
+      <navLabel>
+        <text>प्रतिलिपि अधिकार पृष्ठ</text>
+      </navLabel>
+      <content src="text/copyrightpage.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_3">
+      <navLabel>
+        <text>विषयसूची</text>
+      </navLabel>
+      <content src="text/tocpage.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_4">
+      <navLabel>
+        <text>समर्पण</text>
+      </navLabel>
+      <content src="text/samarpana.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_5">
+      <navLabel>
+        <text>संपादकीय</text>
+      </navLabel>
+      <content src="text/sampadakiya.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_6">
+      <navLabel>
+        <text>प्रबोध-गान</text>
+      </navLabel>
+      <content src="text/prabodha-gana.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_7">
+      <navLabel>
+        <text>गुलाफ</text>
+      </navLabel>
+      <content src="text/gulapha.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_8">
+      <navLabel>
+        <text>भङेरी</text>
+      </navLabel>
+      <content src="text/bhaneri.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_9">
+      <navLabel>
+        <text>कोइली</text>
+      </navLabel>
+      <content src="text/koili.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_10">
+      <navLabel>
+        <text>पहाड</text>
+      </navLabel>
+      <content src="text/pahada.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_11">
+      <navLabel>
+        <text>झर्ना झरेको</text>
+      </navLabel>
+      <content src="text/jharna-jhareko.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_12">
+      <navLabel>
+        <text>चरो-कवि</text>
+      </navLabel>
+      <content src="text/charo-kavi.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_13">
+      <navLabel>
+        <text>एउटा झार</text>
+      </navLabel>
+      <content src="text/euta-jhara.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_14">
+      <navLabel>
+        <text>छाँगासँग कुरा</text>
+      </navLabel>
+      <content src="text/chagasaga-kura.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_15">
+      <navLabel>
+        <text>रूखको आफ्नो कथा</text>
+      </navLabel>
+      <content src="text/rukhako-aphno-katha.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_16">
+      <navLabel>
+        <text>चराहरूको बोली</text>
+      </navLabel>
+      <content src="text/charaharuko-boli.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_17">
+      <navLabel>
+        <text>बालख्ख र गाई</text>
+      </navLabel>
+      <content src="text/balakhkha-ra-gai.xhtml"/>
+    </navPoint>
+    <navPoint id="chapter_18">
+      <navLabel>
+        <text>बादल सँग सवाल जवाफ</text>
+      </navLabel>
+      <content src="text/badala-saga-savala-javapha.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="id" version="3.0" prefix="rendition: http://www.idpf.org/vocab/rendition/#">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <meta property="dcterms:modified">2026-10-13T18:26:52Z</meta>
+    <meta name="generator" content="Ebook-lib 0.19.0"/>
+    <dc:identifier id="id">20261013182652</dc:identifier>
+    <dc:title>छाँगासँग कुरा</dc:title>
+    <dc:language>ne</dc:language>
+    <dc:creator id="creator">लक्ष्मीप्रसाद देवकोटा</dc:creator>
+    <dc:date>2026-10-13T18:26:52Z</dc:date>
+    <dc:publisher>Sahityaras</dc:publisher>
+    <meta name="source_publisher" content="झापा प्रकाशन"></meta>
+    <meta name="source_edition" content="पहिलो"></meta>
+    <meta name="source_year" content="२०२६"></meta>
+    <meta name="source_isbn" content=""></meta>
+    <meta name="book_about" content="महाकवि देवकोटाका प्रकृतिवादी कविताहरूको सँगालो आकाश बोल्छमा मैले लेखको छु— &quot;हाम्रा सामु प्रकृति नाना रूपमा उभिए पनि त्यसका रूपहरूलाई दुइ भागमा बाँड्न सकिन्छ । प्रकृतिको एउटा रूप त्यो हो जसमा त्यसको रूपाकार भौतिक हुन्छ, ठोस हुन्छ,जस्तै—पहाड़, नदी, खोला, रूख आदि । दोस्रो रूप त्यो हो जसमा प्रकृतिको रूपाकार सूक्ष्म अव्यक्त वा अनुभव मात्र गर्न सकिने हुन्छ, जस्तै—हावा, याम, गरम, न्यानो जून, सूर्य, बिहान, आकाश आदि ।&quot; यस आधारमा हेर्दा देवकोटाले उपरोक्त सँगालो द्वारा प्रकृतिको दोस्रो रूपको अभिव्यक्ति गरेक छन् र प्रस्तुत सँगालो द्वारा पहिलो रूपको ।&#13;&#10;&#13;&#10;वास्तवमा प्रस्तुत सँगालो आकाश बोल्छकै क्रममा पर्न आउँछ। यस रूपका यसलाई त्यसकै पूरक अथवा दोस्रो भाग ठाने पनि हुन्छ । दुवै सँगालाहरूमा कथ्य, शिल्प र विधानको प्रशस्त समानता छ ।&#13;&#10;&#13;&#10;यस सँगालाका रचनाहरूले स्वच्छन्दतावादी देवकोटाको प्रकृतिवादी कवि-व्यक्तित्वलाई पूर्ण बनाउँछ । प्रकृतिको अत्यक्त र सूक्ष्म रूपलाई चित्रित गर्न उनी आकाश बोल्छमा जति सिपालु देखिएको छन्, उति नै त्यसको स्थूल, अव्यक्त र ठोस रूपलाई चित्रित गर्न यसमा । देवकोटाको उपरोक्त कवि-व्यक्तित्वलाई चिन्न-चिनाउन यो सँगालो पनि खाँचोपर्दो भएकोले प्रस्तुत गर्दैछु ।&#10;—सम्पादक"></meta>
+    <meta name="book_genre" content="कवितासङ्ग्रह"></meta>
+    <meta name="book_slug" content="chagasanga-kura"></meta>
+    <meta name="cover" content="cover-img"></meta>
+  </metadata>
+  <manifest>
+    <item href="styles/global.css" id="static_0" media-type="text/css"/>
+    <item href="images/cover.jpg" id="cover-img" media-type="image/jpeg" properties="cover-image"/>
+    <item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+    <item href="text/coverpage.xhtml" id="chapter_0" media-type="application/xhtml+xml"/>
+    <item href="fonts/BhotoSerifDevanagari-VF.ttf" id="static_1" media-type="application/font-sfnt"/>
+    <item href="text/titlepage.xhtml" id="chapter_1" media-type="application/xhtml+xml"/>
+    <item href="images/saras_logo.png" id="static_2" media-type="image/png"/>
+    <item href="text/copyrightpage.xhtml" id="chapter_2" media-type="application/xhtml+xml"/>
+    <item href="text/tocpage.xhtml" id="chapter_3" media-type="application/xhtml+xml"/>
+    <item href="text/samarpana.xhtml" id="chapter_4" media-type="application/xhtml+xml"/>
+    <item href="text/sampadakiya.xhtml" id="chapter_5" media-type="application/xhtml+xml"/>
+    <item href="text/prabodha-gana.xhtml" id="chapter_6" media-type="application/xhtml+xml"/>
+    <item href="text/gulapha.xhtml" id="chapter_7" media-type="application/xhtml+xml"/>
+    <item href="text/bhaneri.xhtml" id="chapter_8" media-type="application/xhtml+xml"/>
+    <item href="text/koili.xhtml" id="chapter_9" media-type="application/xhtml+xml"/>
+    <item href="text/pahada.xhtml" id="chapter_10" media-type="application/xhtml+xml"/>
+    <item href="text/jharna-jhareko.xhtml" id="chapter_11" media-type="application/xhtml+xml"/>
+    <item href="text/charo-kavi.xhtml" id="chapter_12" media-type="application/xhtml+xml"/>
+    <item href="text/euta-jhara.xhtml" id="chapter_13" media-type="application/xhtml+xml"/>
+    <item href="text/chagasaga-kura.xhtml" id="chapter_14" media-type="application/xhtml+xml"/>
+    <item href="text/rukhako-aphno-katha.xhtml" id="chapter_15" media-type="application/xhtml+xml"/>
+    <item href="text/charaharuko-boli.xhtml" id="chapter_16" media-type="application/xhtml+xml"/>
+    <item href="text/balakhkha-ra-gai.xhtml" id="chapter_17" media-type="application/xhtml+xml"/>
+    <item href="text/badala-saga-savala-javapha.xhtml" id="chapter_18" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="chapter_0"/>
+    <itemref idref="chapter_1"/>
+    <itemref idref="chapter_2"/>
+    <itemref idref="chapter_3"/>
+    <itemref idref="chapter_4"/>
+    <itemref idref="chapter_5"/>
+    <itemref idref="chapter_6"/>
+    <itemref idref="chapter_7"/>
+    <itemref idref="chapter_8"/>
+    <itemref idref="chapter_9"/>
+    <itemref idref="chapter_10"/>
+    <itemref idref="chapter_11"/>
+    <itemref idref="chapter_12"/>
+    <itemref idref="chapter_13"/>
+    <itemref idref="chapter_14"/>
+    <itemref idref="chapter_15"/>
+    <itemref idref="chapter_16"/>
+    <itemref idref="chapter_17"/>
+    <itemref idref="chapter_18"/>
+  </spine>
+</package>
